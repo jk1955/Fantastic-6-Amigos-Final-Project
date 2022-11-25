@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<body>
+    <div align="center" class="menu-header">
+        <h1>
+            <span style="font-size:40px; text-align:center; color:green">WMS Inventory Tracker</span>
+        </h1>
+
+    </div>
+    <br />
+    <div align="left" class="menu">
+        <div align="center">
+            <h1>
+                <span style="font-size:30px;color:green">Main Menu</span>
+            </h1>
+        </div>
+        <br />
+        <ol>
+            <li>
+                <a style="color: indianred" href='@Url.Action("Index", "Accounts")'>Display</a> Account information
+            </li>
+            <li>
+                <a style="color: indianred" href='@Url.Action("Index", "StorageLocation")'>Display</a> a list of Storage Locations
+            </li>
+            <li>
+                <a style="color: indianred" href='@Url.Action("Index", "Container")'>Display</a> a list of Containers
+            </li>
+            <li>
+                <a style="color: indianred" href='@Url.Action("Index", "Contents")'>Display</a> a list content
+            </li>
+            <li>
+                <a style="color: indianred" href='@Url.Action("Create", "Accounts")'>Add</a> a new Account
+            </li>
+            <li>
+                <a style="color: indianred" href='@Url.Action("Create", "StorageLocation")'>Add</a> a new Storage Location
+            </li>
+            <li>
+                <a style="color: indianred" href='@Url.Action("Create", "Container")'>Add</a> a new Container
+            </li>
+            <li>
+                <a style="color: indianred" href='@Url.Action("Create", "Contents")'>Add</a> new Content
+            </li>
+
+        </ol>
+    </div>
+</body>

@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WMS_Inventory_API_Client
+build_property.RootNamespace = WMS_Inventory_API_Client
+build_property.ProjectDir = /Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Accounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Accounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Accounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFpbmVyL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFpbmVyL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFpbmVyL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFpbmVyL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Container/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFpbmVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Contents/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGVudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Contents/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGVudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Contents/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGVudHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Contents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGVudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Contents/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGVudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvcmFnZUxvY2F0aW9uL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvcmFnZUxvY2F0aW9uL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvcmFnZUxvY2F0aW9uL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvcmFnZUxvY2F0aW9uL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/StorageLocation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvcmFnZUxvY2F0aW9uL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jameskocsis/Documents/Jim/2022-Fall-Cohort/repos/Class_2022-Fall-Chort/Bill/20221123/Fantastic-6-Amigos-Final-Project/WMS_Inventory_API_Client/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kh0x5150tj

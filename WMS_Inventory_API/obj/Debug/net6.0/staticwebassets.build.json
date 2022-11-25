@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ioh2dixKpJe1JF7UtIs1KtOaoZvERG2ZrZxUrOwsaqI=",
+  "Source": "WMS_Inventory_API",
+  "BasePath": "_content/WMS_Inventory_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

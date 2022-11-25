@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{8E158262-730F-42DC-8CEC-42BCE26A9BCD}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Contents/Edit.cshtml">
+    <Files>
+      <File FileName="Controllers/ContentsController.cs" Line="135" Column="13" />
+      <File FileName="Services/ContentService.cs" Line="41" Column="17" />
+      <File FileName="Models/Content.cs" Line="48" Column="10" />
+      <File FileName="Views/Contents/Index.cshtml" Line="10" Column="1" />
+      <File FileName="Views/Contents/Details.cshtml" Line="43" Column="1" />
+      <File FileName="Views/Contents/Edit.cshtml" Line="7" Column="30" />
+      <File FileName="Views/Contents/Delete.cshtml" Line="9" Column="27" />
+      <File FileName="Views/Contents/Create.cshtml" Line="41" Column="6" />
+      <File FileName="Views/Container/Details.cshtml" Line="83" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WMS_Inventory_API_Client" expanded="True">
+            <Node name="WMS_Inventory_API_Client" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Container" expanded="True">
+                  <Node name="Details.cshtml" selected="True" />
+                </Node>
+                <Node name="Contents" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WMS__Inventory__API__Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

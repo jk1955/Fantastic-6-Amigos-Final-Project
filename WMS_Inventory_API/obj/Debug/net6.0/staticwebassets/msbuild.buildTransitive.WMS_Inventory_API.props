@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/WMS_Inventory_API.props" />
+</Project>

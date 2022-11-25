@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{DF9C09BE-B81C-4787-93E4-9D7702AD6C46}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20221124235426_initial.cs">
+    <Files>
+      <File FileName="Models/Account.cs" Line="1" Column="1" />
+      <File FileName="Controllers/AccountsController.cs" Line="58" Column="1" />
+      <File FileName="Migrations/20221124235426_initial.cs" Line="123" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WMS_Inventory_API" expanded="True">
+            <Node name="WMS_Inventory_API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20221124235426_initial.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WMS__Inventory__API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
